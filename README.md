@@ -1,1 +1,1 @@
-# Text-Mining-with-R-Note
+# R Note - Text Mining
